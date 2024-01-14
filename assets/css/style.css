@@ -523,6 +523,7 @@ main {
 
 .service-icon-box img {
   width: 50px;
+  margin: 10px auto;
 }
 
 .service-content-box {
