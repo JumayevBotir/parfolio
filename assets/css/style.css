@@ -1306,13 +1306,13 @@ textarea.form-input::-webkit-resizer {
     gap: 25px;
   }
 
-  .avatar-box {
+  /* .avatar-box {
     border-radius: 30px;
-  }
+  } */
 
-  .avatar-box img {
+  /* .avatar-box img {
     width: 120px;
-  }
+  } */
 
   .info-content .name {
     margin-bottom: 15px;
